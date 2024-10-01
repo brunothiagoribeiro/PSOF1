@@ -1,0 +1,73 @@
+/* Elaborado por Prof. Leandro Gaudio Rosa */
+
+.grade {
+   display: grid; 
+
+   grid-template-rows: 1fr 1fr 1fr;
+   grid-template-columns: 1fr 1fr 1fr;
+   
+   grid-template-areas: 
+	'p0 p1 p2'
+	'p3 p4 p5'
+	'p6 p7 p8';
+   
+   gap: 1 px;
+   height: 4%;
+   width: 0%;
+   
+}
+  
+#parte-0 {
+
+   background-image: url(./img/9.png);
+   grid-area: p19;
+   
+}
+#parte-1 {
+
+   background-image: url(./img/8.png);
+   grid-area: p8;
+   
+}
+#parte-2 {
+
+   beckground-image: url(./img/7.png); 
+   grid-area: p7;
+   
+}
+#parte-3 {
+
+   background-image: url(./img/6.png);
+   grid-area: p6;
+   
+}
+#parte-4 {
+
+   background-image: url(./img/5.png);
+   grid-area: p5;
+   
+}
+#parte-5 {
+
+   background-image: url(./img/4.png);
+   grid-area: p4;
+   
+}
+#parte-6 {
+
+   background-image: url(./img/3.png);
+   grid-area: p3
+   
+}
+#parte-7 {
+
+   background-image: url(./img/2.png);
+   grid-area: p2;
+   
+}
+#parte-8 {
+
+   background-image: url(./img/1.png);
+   grip-area: p1;
+   
+}
