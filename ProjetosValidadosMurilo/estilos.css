@@ -1,0 +1,89 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: rgb(22, 126, 218);
+}
+img{
+    width: 80%;
+    height: 80%;
+    opacity: 70%;
+    border: 8px solid;
+    border-color: brown;
+}
+#capivara{
+    text-align: center;
+}
+#capivara:hover{
+    zoom: 1.20;
+}
+#cavalo{
+    text-align: center;
+}
+#cavalo:hover{
+    zoom: 1.20;
+}
+#coelho{
+    text-align: center;
+}
+#coelho:hover{
+    zoom: 1.20;
+}
+#gato {
+    text-align: center;
+}
+#gato:hover{
+    zoom: 1.20;
+}
+#peixe {
+    text-align: center;
+}
+#peixe:hover{
+    zoom: 1.20;
+}
+#ligre {
+    text-align: center;
+}
+#ligre:hover{
+    zoom: 1.20;
+}
+#ovelha {
+    text-align: center;
+}
+#ovelha:hover{
+    zoom: 1.20;
+}
+#porco {
+    text-align: center;
+}
+#porco:hover{
+    zoom: 1.20;
+}
+#tartaruga {
+    text-align: center;
+}
+#tartaruga:hover{
+    zoom: 1.20;
+}
+#tucano {
+    text-align: center;
+}
+#tucano:hover{
+    zoom: 1.20;
+}
+img:hover{
+     opacity: 100%;
+     filter: saturate(3);
+} 
+h1{
+    text-align: center;
+    color:black
+}
+
+h2{
+    color:bisque
+}
+
+p{
+    font-family:'Times New Roman';
+}
